@@ -1,7 +1,8 @@
 # Личный проект «Код и Магия» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Евгения Михайлова](https://up.htmlacademy.ru/javascript/7/user/172479).
-* Наставник: `Неизвестно`.
+  [Проект](https://github.com/Egenie-mih/172479-code-and-magick)
+* Наставник: `Катюша`.
 
 ---
 
